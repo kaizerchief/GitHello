@@ -62,6 +62,13 @@ Codigo en JSON
 Esto es un texto referente a una cita que colocaremos debajo.
 > Esta es una cita, nada mal, eh?
 
+# LINEAS DIVISORAS}
+Esto es un texto que sera dividido por guiones.
 
+---
+Esto es otro texto dividido por asteriscos.
 
+***
+Esto es un texto dividido por guiones bajos.
 
+___
