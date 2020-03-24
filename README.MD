@@ -1,3 +1,5 @@
+# VERSION ACTUAL v1.2.2
+
 # FORMATOS DE CABECERAS
 # Cabecera H1
 ## Cabecera H2
