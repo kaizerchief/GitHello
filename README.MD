@@ -72,3 +72,8 @@ Esto es otro texto dividido por asteriscos.
 Esto es un texto dividido por guiones bajos.
 
 ___
+
+# SALTOS DE LINEAS
+Esto es un parrafo.
+
+Esto es otro parrafo.
