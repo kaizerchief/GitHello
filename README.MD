@@ -5,5 +5,14 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+Underline 1
+-----------
 
-Soy un readme.
+Underline 2
+===========
+
+- formato *italica* de la primer forma.
+- formato _italica_ de la segunda forma.
+- formato **bold** o __strong__.
+- formato ~~tachado~~, formato normal.
+- ~~***aqui todo junto***~~
