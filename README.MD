@@ -33,5 +33,22 @@ Underline 2
 - [Esto es un link al Index](index.html)
 
 # IMAGENES
-<img src="https://i0.pngocean.com/files/914/758/330/github-social-media-computer-icons-logo-android-github.jpg" width="250" height="200">
+![Icono de GitHUB](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/10412341841540553610-256.png)
+
+# CODE SNIPPETS
+Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
 
