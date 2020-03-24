@@ -52,3 +52,12 @@ Codigo en JSON
 ]
 ```
 
+# TABLAS
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Juanito | Ramiro | 231231312 |
+| hola | señor | thompson |
+
+
+
+
