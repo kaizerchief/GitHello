@@ -56,7 +56,11 @@ Codigo en JSON
 | Nombre | Apellido | Documento |
 |--------|----------|-----------|
 | Juanito | Ramiro | 231231312 |
-| hola | señor | thompson |
+| Hola | Señor | Thompson |
+
+# CITAS
+Esto es un texto referente a una cita que colocaremos debajo.
+> Esta es una cita, nada mal, eh?
 
 
 
